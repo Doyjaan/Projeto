@@ -1,0 +1,12 @@
+.topo h1{
+text-align: center;
+color: rgb(55, 55, 110);
+text-decoration: none;
+font-family: 'Sigmar';
+height: 250px;
+width: 100%; 
+margin:  auto 0;
+font-size: 50pt;
+position: absolute;
+top: 50%;
+transform: translate(0,-50%);
